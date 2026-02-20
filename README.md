@@ -6,6 +6,8 @@ Date: February 2026
 
 Status: Initial Phase 
 
+Branch for push/pull/fetch : DEV. 
+
  1. EXECUTIVE SUMMARY 
 
 This specification defines the requirements for an Agentic Artificial Intelligence system that processes queries against a document provided as input context. The AI agent receives a document as part of the initial context (via API, or direct input) and autonomously responds to user queries by reasoning over and extracting information from that provided document, without requiring document to upload functionality. 
